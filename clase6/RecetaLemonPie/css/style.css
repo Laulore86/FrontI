@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,400&display=swap');
+
+body h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header section{
+    position: relative;
+    background-image: url('../img/lemon-pie.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 375px;
+    background-position: 0%;
+    color: white
+}
+
+.texto-header{
+    z-index: 2;
+   
+}
+
+
+footer{
+    background-color: gainsboro;
+}
